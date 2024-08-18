@@ -1,0 +1,6 @@
+if SHIELD_FLATFISH
+
+config ZMK_KEYBOARD_NAME
+	default "FlatFish"
+
+endif
